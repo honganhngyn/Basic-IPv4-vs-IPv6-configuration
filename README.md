@@ -27,6 +27,8 @@ Mô hình mạng IPv4 với cấu hình định tuyến và cấp phát địa c
 - Cấu hình DHCP IPv4 để cấp phát IP tự động.
 - Kiểm tra kết nối giữa các thiết bị và mạng con.
 
+![Mô hình mạng](https://github.com/honganhngyn/Basic-IPv4-vs-IPv6-configuration/blob/main/IPv4.png)
+
 **Mục tiêu:**
 - Ôn tập các khái niệm về subnetting IPv4.
 - Cấu hình định tuyến IPv4 cơ bản.
