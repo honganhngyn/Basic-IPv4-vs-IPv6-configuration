@@ -10,6 +10,8 @@ Mô hình mạng triển khai OSPFv3, DHCPv6 và Access Control List (ACL) trên
 - **ACL**: Áp dụng danh sách kiểm soát truy cập để giới hạn và bảo mật luồng dữ liệu IPv6.
 - **Kiểm thử kết nối**: Xác minh việc truyền dữ liệu giữa các mạng con theo chính sách định tuyến và ACL.
 
+![Mô hình mạng](https://github.com/honganhngyn/Basic-IPv4-vs-IPv6-configuration/blob/main/IPv6.png)
+
 **Mục tiêu:**
 - Cấu hình và kiểm tra OSPFv3.
 - Triển khai DHCPv6 dạng Stateful/Stateless.
